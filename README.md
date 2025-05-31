@@ -7,6 +7,9 @@
   <a href="https://instagram.com/amineatmm" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
   </a>
+  <a href="https://github.com/amineatm" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="github"/>
+  </a>
 </p>
 
 <p align="center">
