@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohamed Amine Atmani</h1>
 
-<!--
-**amineatm/amineatm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://linkedin.com/in/mohamed-amine-atmani" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="linkedin"/>
+  </a>
+  <a href="https://instagram.com/amineatmm" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  🚀 .NET Software Engineer | Azure | AWS 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📦 To see my CV in your terminal:
+
+```bash
+npx amineatmani
