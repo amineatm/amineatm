@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-   Software Engineer | .NET | AZURE 
+   Software Engineer | .NET | Azure
 </p>
 
 ---
