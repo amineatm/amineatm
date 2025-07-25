@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  🚀 .NET Software Engineer | Azure | AWS 
+   Software Engineer | .NET | AZURE 
 </p>
 
 ---
