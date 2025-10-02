@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Amine M. Atmani</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mohamed-amine-atmani" target="_blank">
+  <a href="https://linkedin.com/in/mohamed-amine-atmani" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="linkedin"/>
   </a>
-  <a href="https://instagram.com/amineatmm" target="_blank">
+  <a href="https://instagram.com/amine.atmm" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-Follow-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
   </a>
-  <a href="https://github.com/amineatm" target="_blank">
+  <a href="https://github.com/amineatm" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="github"/>
   </a>
 </p>
