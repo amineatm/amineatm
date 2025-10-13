@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amine M. Atmani</h1>
+<h1 align="center">Hi 👋, I'm Amine Atmani</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/mohamed-amine-atmani" target="_blank" rel="noopener noreferrer">
