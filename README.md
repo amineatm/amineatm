@@ -21,5 +21,4 @@
 Hope you're having a wonderful day
 
 ```bash
-
-<!-- npx amineatmani -->
+npx amineatmani 
